@@ -1,2 +1,2 @@
-# Animation-CPP
+# Animation-Container class & Overloaded OP
 Animation in C++ using Container Classes and Overloaded Operators. This is a development of project with the addition of a two ready-made container class templates and overloaded operators. It works in a very similar way. It is a console application that has an AnimationManager that holds a vector template of Animation objects each of which holds a forward_list template of Frames. In addition the string class is used to hold some of the strings in the application. A string is essentially a vector of chars.
